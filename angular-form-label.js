@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angular.form.group', [])
+angular.module('angular.form.label', [])
 
 .directive('formLabel', function(){
     return{
