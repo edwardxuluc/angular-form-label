@@ -4,7 +4,7 @@
     "Edward paulino xuluc chulim <edward.xuluc@gmail.com>"
   ],
   "description": "Append de un (*) al label de los input requeridos se gun el formulario",
-  "main": "angular-form-label",
+  "main": "angular-form-label.js",
   "keywords": [
     "angular",
     "form",
