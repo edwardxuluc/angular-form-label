@@ -1,0 +1,24 @@
+{
+  "name": "angular-form-label",
+  "authors": [
+    "Edward paulino xuluc chulim <edward.xuluc@gmail.com>"
+  ],
+  "description": "Append de un (*) al label de los input requeridos se gun el formulario",
+  "main": "angular-form-label",
+  "keywords": [
+    "angular",
+    "form",
+    "label",
+    "required",
+    "input"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
