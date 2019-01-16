@@ -27,4 +27,4 @@ angular.module('angular.form.label', [])
             }
         }
     };
-})
+});
